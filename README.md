@@ -7,5 +7,8 @@
   make a deck, words from the deck and known words memory mix together
 
 2: Audio component?
+
+test
+
   
 
